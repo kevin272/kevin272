@@ -59,7 +59,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg" />
 </picture>
-![Snake animation](https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg)
 
 ---
 
