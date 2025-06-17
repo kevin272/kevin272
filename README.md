@@ -52,6 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin272&layout=compact&theme=github_dark" height="180" />
 </p>
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg">
+  </picture>
 ---
 
 ### 📫 Connect with Me
