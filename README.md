@@ -25,6 +25,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 
+
+
 #### 🌐 Frontend:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
@@ -57,6 +59,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg" />
 </picture>
+![Snake animation](https://raw.githubusercontent.com/kevin272/kevin272/output/github-contribution-grid-snake.svg)
 
 ---
 
